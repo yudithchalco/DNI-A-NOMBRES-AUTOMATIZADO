@@ -1,2 +1,2 @@
 # DNI-A-NOMBRES-AUTOMATIZADO
-Este codigo es de consultas automatizadas de DNI PERÚ
+Este cÓdigo es de consultas automatizadas de DNI PERÚ
